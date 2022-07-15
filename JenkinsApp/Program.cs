@@ -1,5 +1,5 @@
 ﻿using System;
-using MyMath;
+using MyMth;
 namespace JenkinsApp
 {
     class Program
