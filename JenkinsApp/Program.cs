@@ -19,6 +19,7 @@ namespace JenkinsApp
             Console.WriteLine(Add);
             Console.WriteLine(Sub);
 
+            Console.WriteLine();
             Console.ReadLine();
 
         }
